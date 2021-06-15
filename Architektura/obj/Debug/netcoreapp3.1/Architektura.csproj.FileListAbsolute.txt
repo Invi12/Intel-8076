@@ -1,0 +1,15 @@
+C:\Users\Michał\source\repos\Architektura\Architektura\bin\Debug\netcoreapp3.1\Architektura.exe
+C:\Users\Michał\source\repos\Architektura\Architektura\bin\Debug\netcoreapp3.1\Architektura.deps.json
+C:\Users\Michał\source\repos\Architektura\Architektura\bin\Debug\netcoreapp3.1\Architektura.runtimeconfig.json
+C:\Users\Michał\source\repos\Architektura\Architektura\bin\Debug\netcoreapp3.1\Architektura.runtimeconfig.dev.json
+C:\Users\Michał\source\repos\Architektura\Architektura\bin\Debug\netcoreapp3.1\Architektura.dll
+C:\Users\Michał\source\repos\Architektura\Architektura\bin\Debug\netcoreapp3.1\Architektura.pdb
+C:\Users\Michał\source\repos\Architektura\Architektura\obj\Debug\netcoreapp3.1\Architektura.csprojAssemblyReference.cache
+C:\Users\Michał\source\repos\Architektura\Architektura\obj\Debug\netcoreapp3.1\Architektura.Form1.resources
+C:\Users\Michał\source\repos\Architektura\Architektura\obj\Debug\netcoreapp3.1\Architektura.csproj.GenerateResource.cache
+C:\Users\Michał\source\repos\Architektura\Architektura\obj\Debug\netcoreapp3.1\Architektura.AssemblyInfoInputs.cache
+C:\Users\Michał\source\repos\Architektura\Architektura\obj\Debug\netcoreapp3.1\Architektura.AssemblyInfo.cs
+C:\Users\Michał\source\repos\Architektura\Architektura\obj\Debug\netcoreapp3.1\Architektura.csproj.CoreCompileInputs.cache
+C:\Users\Michał\source\repos\Architektura\Architektura\obj\Debug\netcoreapp3.1\Architektura.dll
+C:\Users\Michał\source\repos\Architektura\Architektura\obj\Debug\netcoreapp3.1\Architektura.pdb
+C:\Users\Michał\source\repos\Architektura\Architektura\obj\Debug\netcoreapp3.1\Architektura.genruntimeconfig.cache
